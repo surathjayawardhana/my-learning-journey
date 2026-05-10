@@ -23,4 +23,4 @@ This repository is a record of my journey as a Software Engineering undergraduat
 - Problem-solving skills
 
 ##
- This repo will grow as I learn more.
+- https://surathjayawardhana.github.io/my-learning-journey/index.html
