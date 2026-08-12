@@ -24,4 +24,4 @@ This repository is a record of my journey as a Software Engineering undergraduat
 
 ##
 - https://surath.run.place/
-- https://surathjayawardhana.github.io/my-learning-journey/index.html
+- https://surathjayawardhana.github.io/About_me_1.1/index.html
